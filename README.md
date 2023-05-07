@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Jorge, although online I go by the name 'robtzcraft'. I'm an enthusiast of programming and robotics... 
+I navigate the world with the humor of a young child. I'm always looking for new and interesting challenges to professionally procrastinate on.
+
+I also enjoy playing videogames and playing guitar alonside another musical instruments.
+
+## My Tools:
+
+* JavaScript
+* TypeScript (Comming soon...)
+* HTML/CSS
+* C/C++ (I use them for robotic purposes)
+* Python (Just for fun and why not?)
+
+## I'm currently learning:
+
+* Android Development
+* Flutter
+* React
+* Automation
