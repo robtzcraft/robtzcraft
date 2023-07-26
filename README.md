@@ -24,7 +24,6 @@ I also enjoy playing videogames and playing guitar alonside another musical inst
 
 * JavaScript
 * TypeScript (Comming soon...)
-* HTML/CSS
 * C/C++ (I use them for robotic purposes)
 * Python (Just for fun and why not?)
 
@@ -34,3 +33,4 @@ I also enjoy playing videogames and playing guitar alonside another musical inst
 * Flutter
 * React
 * Automation
+* Machine Learning (Robotic Purposes)
