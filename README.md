@@ -26,7 +26,6 @@ I also enjoy playing videogames and playing guitar alonside another musical inst
 * C/C++ (I use them for robotic purposes)
 * Python (Just for fun and why not?)
 * Linux Shell // PowerShell
-* 
 
 ## I'm currently learning:
 
