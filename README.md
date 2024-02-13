@@ -22,15 +22,15 @@ I also enjoy playing videogames and playing guitar alonside another musical inst
 
 ## My Tools:
 
-* JavaScript
-* TypeScript (Comming soon...)
+* JavaScript / TypeScript
 * C/C++ (I use them for robotic purposes)
 * Python (Just for fun and why not?)
+* Linux Shell // PowerShell
+* 
 
 ## I'm currently learning:
 
-* Android Development
-* Flutter
-* React
+* CyberSecurity (Pentesting)
 * Automation
 * Machine Learning (Robotic Purposes)
+* DataBases
