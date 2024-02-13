@@ -20,7 +20,10 @@ I navigate the world with the humor of a young child. I'm always looking for new
 
 I also enjoy playing videogames and playing guitar alonside another musical instruments.
 
+
 ## My Tools:
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/simpleicons.svg" />
 
 * JavaScript / TypeScript
 * C/C++ (I use them for robotic purposes)
