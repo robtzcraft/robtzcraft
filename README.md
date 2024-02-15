@@ -1,11 +1,4 @@
 
-```JavaScript
-function Message(props) {
-    return <h1>{props.mensaje}</h1>
-}
-```
-<Mensaje mensaje="¡Hola, mundo!" />
-
 <h1> Hi there  </h1>
 
 <!--
