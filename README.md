@@ -22,16 +22,21 @@ I navigate the world with the humor of a young child. I'm always looking for new
 I also enjoy playing videogames and playing guitar alonside another musical instruments.
 
 
-## My Tools:
+## My main tools:
 
-* JavaScript / TypeScript
-* C/C++ (I use them for robotic purposes)
+* React.js
+* Postgresql / Supabase
+* SpringBoot
 * Python (Just for fun and why not?)
-* Linux Shell // PowerShell
+
+## Other technical tools
+
+* Shell programming (bash and powershell)
+* Autodesk 3D software (Inventor / Fusion 350)
+* .NET9 (I hate it!, but my job requires it)
+* AVR Platforms (Yeap... I program on assembly and I love it)
 
 ## I'm currently learning:
 
 * CyberSecurity (Pentesting)
-* Automation
 * Machine Learning (Robotic Purposes)
-* DataBases
