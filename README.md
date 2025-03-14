@@ -32,7 +32,7 @@ I also enjoy playing videogames and playing guitar alonside another musical inst
 ## Other technical tools
 
 * Shell programming (bash and powershell)
-* Autodesk 3D software (Inventor / Fusion 350)
+* Autodesk 3D software (Inventor / Fusion 360)
 * .NET9 (I hate it!, but my job requires it)
 * AVR Platforms (Yeap... I program on assembly and I love it)
 
