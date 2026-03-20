@@ -24,16 +24,17 @@ I also enjoy playing videogames and playing guitar alonside another musical inst
 
 ## My main tools:
 
-* React.js
+* Next.js (Typescript)
 * Postgresql / Supabase
 * SpringBoot
 * Python (Just for fun and why not?)
+* C
 
 ## Other technical tools
 
 * Shell programming (bash and powershell)
 * Autodesk 3D software (Inventor / Fusion 360)
-* .NET9 (I hate it!, but my job requires it)
+* .NET9 (Obsolete hability)
 * AVR Platforms (Yeap... I program on assembly and I love it)
 
 ## I'm currently learning:
